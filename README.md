@@ -50,12 +50,11 @@ Create a public repository on GitHub.
 Push the codebase to the repository.
 Ensure that the README.md file contains instructions for setting up and running the project.
 ```
+### 1.Screenshot
 ![IMG_20240316_224831-transformed](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/ead01bd6-8b1c-44bd-b748-9989dc2850ad) 
-```
-```
+### 2.Screenshot
 ![IMG_20240316_224905](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/6c07d5df-7b2a-49df-aaa2-9bdacf18fc3f)
-```
-```
+### 3.Screenshot
 ![screenshot](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/a155054d-8b91-4097-ab14-3fb2de918d9e)
 ```
 1.I want to board a train from London to France. The train ticket will cost $20.
@@ -68,14 +67,13 @@ Ensure that the README.md file contains instructions for setting up and running 
 8.An API to remove a user from the train
 9.An API to modify a user's seat
 ```
+### 1.Screenshot
 ![Screenshot (1885)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/7cbf03ec-2744-4d54-8b5d-1b18223f01fc)
-```
-```
+### 2.Screenshot
 ![Screenshot (1886)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/7b49cfbc-c8fb-4662-bf9b-e81235f5e538)
-```
-```
+### 3.Screenshot
 ![Screenshot (1890)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/564f8fd0-b166-4dc1-9648-4678f4593adb)
-```
+
 ### Conclusion
 ```
 Overall, by following these guidelines and continuously striving for improvement, we can develop the train ticket booking application API in the best possible way, meeting the requirements 
