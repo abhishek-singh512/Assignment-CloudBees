@@ -73,9 +73,9 @@ Ensure that the README.md file contains instructions for setting up and running 
 ```
 ![Screenshot (1886)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/7b49cfbc-c8fb-4662-bf9b-e81235f5e538)
 ```
-### Databases Implementation
 ```
 ![Screenshot (1890)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/564f8fd0-b166-4dc1-9648-4678f4593adb)
+```
 ```
 Overall, by following these guidelines and continuously striving for improvement, we can develop the train ticket booking application API in the best possible way, meeting the requirements 
 effectively and delivering value to users and stakeholders.
