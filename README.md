@@ -52,7 +52,9 @@ Ensure that the README.md file contains instructions for setting up and running 
 ```
 ![IMG_20240316_224831-transformed](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/ead01bd6-8b1c-44bd-b748-9989dc2850ad) 
 ```
+```
 ![IMG_20240316_224905](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/6c07d5df-7b2a-49df-aaa2-9bdacf18fc3f)
+```
 ```
 ![screenshot](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/a155054d-8b91-4097-ab14-3fb2de918d9e)
 ```
@@ -68,8 +70,9 @@ Ensure that the README.md file contains instructions for setting up and running 
 ```
 ![Screenshot (1885)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/7cbf03ec-2744-4d54-8b5d-1b18223f01fc)
 ```
+```
 ![Screenshot (1886)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/7b49cfbc-c8fb-4662-bf9b-e81235f5e538)
-
+```
 ### Databases Implementation
 ```
 ![Screenshot (1890)](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/564f8fd0-b166-4dc1-9648-4678f4593adb)
