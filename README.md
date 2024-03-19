@@ -11,8 +11,14 @@ Install and configure Spring Boot.
 ```
 ### Create a Spring Boot Project:
 ```
+Spring Boot is utilized to build the backend of the application. It simplifies the setup and configuration of Spring-based applications, allowing developers to create stand-alone, production-grade Spring-based applications with minimal hassle. In this project, Spring Boot handles various aspects such as dependency injection, RESTful web service development, and database integration.
+
 Use Spring Initializr to create a new Spring Boot project with necessary dependencies 
 such as Spring Web, Spring Data JPA, and MySQL Driver.
+```
+### Spring Tool Suite (STS): 
+```
+STS is an integrated development environment (IDE) based on Eclipse that is commonly used for developing Spring applications. It provides a range of features tailored specifically for Spring framework development, including code completion, debugging, and deployment tools. STS streamlines the development process and enhances productivity by offering a comprehensive set of tools and plugins for Spring-based projects.
 ```
 ### Define Entity Classes:
 ```
@@ -38,11 +44,15 @@ Define repositories for entities to perform CRUD operations.
 ```
 Use Postman to test the implemented APIs.
 Verify that the endpoints behave as expected and handle various scenarios.
+
+Postman is a popular API client tool used for testing and debugging APIs. It allows developers to send HTTP requests to the backend server and inspect the responses. In this project, Postman can be employed to interact with the RESTful endpoints exposed by the Spring Boot application. Developers can use Postman to test the ticket purchase API, retrieve user details, allocate seats, remove users from the train, and modify user seats, thereby ensuring the proper functioning of the backend APIs.
 ```
 ## #Configure MySQL:
 ```
 Update application.properties with MySQL database connection details.
 Configure Hibernate dialect and other properties.
+
+MySQL is chosen as the relational database management system (RDBMS) for storing and managing data related to train ticket purchases and user details. Spring Boot provides seamless integration with MySQL through Spring Data JPA, allowing developers to define entities, repositories, and service layers to interact with the database. MySQL stores information such as user details (first name, last name, email address), ticket purchases (from, to, price paid), and seat allocations (user-seat mapping), enabling efficient data storage and retrieval for the application.
 ```
 ### Publish to GitHub:
 ```
@@ -50,24 +60,8 @@ Create a public repository on GitHub.
 Push the codebase to the repository.
 Ensure that the README.md file contains instructions for setting up and running the project.
 ```
-### Spring Boot: 
-```
-Spring Boot is utilized to build the backend of the application. It simplifies the setup and configuration of Spring-based applications, allowing developers to create stand-alone, production-grade Spring-based applications with minimal hassle. In this project, Spring Boot handles various aspects such as dependency injection, RESTful web service development, and database integration.
-```
-### Spring Tool Suite (STS): 
-```
-STS is an integrated development environment (IDE) based on Eclipse that is commonly used for developing Spring applications. It provides a range of features tailored specifically for Spring framework development, including code completion, debugging, and deployment tools. STS streamlines the development process and enhances productivity by offering a comprehensive set of tools and plugins for Spring-based projects.
-```
-### Postman: 
-```
-Postman is a popular API client tool used for testing and debugging APIs. It allows developers to send HTTP requests to the backend server and inspect the responses. In this project, Postman can be employed to interact with the RESTful endpoints exposed by the Spring Boot application. Developers can use Postman to test the ticket purchase API, retrieve user details, allocate seats, remove users from the train, and modify user seats, thereby ensuring the proper functioning of the backend APIs.
-```
-### MySQL: 
-```
-MySQL is chosen as the relational database management system (RDBMS) for storing and managing data related to train ticket purchases and user details. Spring Boot provides seamless integration with MySQL through Spring Data JPA, allowing developers to define entities, repositories, and service layers to interact with the database. MySQL stores information such as user details (first name, last name, email address), ticket purchases (from, to, price paid), and seat allocations (user-seat mapping), enabling efficient data storage and retrieval for the application.
-````
-
 In summary, the project leverages Spring Boot for backend development, STS as the IDE for Spring application development, Postman for API testing and debugging, and MySQL for persistent data storage. Together, these technologies form a robust and efficient solution for managing train ticket purchases and related functionalities.
+
 ### 1.Screenshot
 ![IMG_20240316_224831-transformed](https://github.com/abhishek-singh512/Assignment-CloudBees/assets/118076036/ead01bd6-8b1c-44bd-b748-9989dc2850ad) 
 ### 2.Screenshot
