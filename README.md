@@ -1,46 +1,46 @@
-# Assignment-CloudBees
+## #Assignment-CloudBees
 ```
 To fulfill the requirements and implement the project using Java Spring Boot, Postman for API 
 testing, and MySQL for databases, you'll need to follow several steps. Below is an outline of how you can approach this task:
 ```
-### Setup Development Environment:
+## #Setup Development Environment:
 ```
 Install Java Development Kit (JDK) and Apache Maven.
 Set up MySQL and create a database for the project.
 Install and configure Spring Boot.
 ```
-### Create a Spring Boot Project:
+## #Create a Spring Boot Project:
 ```
 Spring Boot is utilized to build the backend of the application. It simplifies the setup and configuration of Spring-based applications, allowing developers to create stand-alone, production-grade Spring-based applications with minimal hassle. In this project, Spring Boot handles various aspects such as dependency injection, RESTful web service development, and database integration.
 
 Use Spring Initializr to create a new Spring Boot project with necessary dependencies 
 such as Spring Web, Spring Data JPA, and MySQL Driver.
 ```
-### Spring Tool Suite (STS): 
+## #Spring Tool Suite (STS): 
 ```
 STS is an integrated development environment (IDE) based on Eclipse that is commonly used for developing Spring applications. It provides a range of features tailored specifically for Spring framework development, including code completion, debugging, and deployment tools. STS streamlines the development process and enhances productivity by offering a comprehensive set of tools and plugins for Spring-based projects.
 ```
-### Define Entity Classes:
+## #Define Entity Classes:
 ```
 Create entity classes such as User and Ticket to represent the data model.
 Define relationships between entities if needed (e.g., User has a Ticket).
 ```
-### Implement Controllers:
+## #Implement Controllers:
 ```
 Create controllers to handle HTTP requests and define APIs.
 Implement endpoints for purchasing a ticket, viewing receipt details, viewing users and their seats, removing a user, and modifying a user's seat.
 ```
-### Implement Service Layer:
+## #Implement Service Layer:
 ```
 Create service classes to encapsulate business logic.
 Implement methods to handle ticket purchase, user management, and seat allocation.
 ```
-### Implement Persistence Layer:
+## #Implement Persistence Layer:
 ```
 Use Spring Data JPA to interact with the database.
 Define repositories for entities to perform CRUD operations.
 ```
-### Test with Postman:
+## #Test with Postman:
 ```
 Use Postman to test the implemented APIs.
 Verify that the endpoints behave as expected and handle various scenarios.
@@ -54,7 +54,7 @@ Configure Hibernate dialect and other properties.
 
 MySQL is chosen as the relational database management system (RDBMS) for storing and managing data related to train ticket purchases and user details. Spring Boot provides seamless integration with MySQL through Spring Data JPA, allowing developers to define entities, repositories, and service layers to interact with the database. MySQL stores information such as user details (first name, last name, email address), ticket purchases (from, to, price paid), and seat allocations (user-seat mapping), enabling efficient data storage and retrieval for the application.
 ```
-### Publish to GitHub:
+## #Publish to GitHub:
 ```
 Create a public repository on GitHub.
 Push the codebase to the repository.
